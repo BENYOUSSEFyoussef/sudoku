@@ -11,5 +11,5 @@ Cette application vous permet de résoudre des grilles de Sudoku en saisissant l
 * Python 3.x
 * Bibliothèques : tkinter
 ### Comment exécuter l'application
-Exécutez le script "Python sudoku_solver.py" pour lancer l'application.
+Exécutez le script "Python sudoku_solver.ipynb" pour lancer l'application.
 
