@@ -1,0 +1,2 @@
+# sudoku
+simple application sudoku
